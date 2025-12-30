@@ -1,4 +1,8 @@
 # UW–Madison MSDIA Healthcare Analytics
+by Taran Schlichtmann
+09/07/2025
+
+*Python-based healthcare analytics project for BMI and antibiotic dosage calculations.*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/TaranSchlich/UW-Madison-MSDIA-Healthcare-Analytics/blob/main/notebooks/report.ipynb
@@ -61,4 +65,6 @@ print(bmi, round(dose), round(total))
 - For clinical precision, use `0.45359237`
 
 ## License
-MIT
+This project is licensed under the MIT License. See LICENSE for details.
+
+**Disclaimer:** This project is for educational purposes only and should not be used for actual clinical decision-making.
