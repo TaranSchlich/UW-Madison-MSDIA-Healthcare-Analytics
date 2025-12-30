@@ -62,7 +62,3 @@ print(bmi, round(dose), round(total))
 
 ## License
 MIT
-
-
-
-
