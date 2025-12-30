@@ -14,6 +14,9 @@ UW–Madison MSDIA project: Python-based healthcare data analysis for BMI calcul
 - Unit conversions
 - Conditional logic for outpatient clinical decision support
 
+## Business Case
+This project simulates the role of a data analyst in an outpatient medical clinic. Outpatient clinics provide medical care without hospital admission, offering services like consultations, diagnostic tests, minor procedures, and follow-ups. Using Google Colab, patient information is input and simple calculations are performed to support clinical decision-making.
+
 ## Features
 - Calculate BMI using CDC formula
 - Compute adult amoxicillin dosage based on weight and age
