@@ -1,6 +1,6 @@
 # UW–Madison MSDIA Healthcare Analytics
-by Taran Schlichtmann 
-Date: 09/07/2025
+**Author:** Taran Schlichtmann  
+**Date:** 09/07/2025  
 
 *Python-based healthcare analytics project for BMI and antibiotic dosage calculations.*
 
